@@ -12,7 +12,7 @@ This allows them to see, at a glance, that they need to record the
  bass part for song #4 and the guitar, keyboards and kazoo parts for
  song #6.
 
-This is to be a web app, updateable in realtime and viewable by the world
+This is to be a web app, updateable in realtime and viewable by the world.
 
 Phase 1- Make it work for a single user
 
@@ -23,5 +23,5 @@ Phase 3- Allow for easy installation on your own webserver (e.g., not tied
  (Wordpress.org vs. Wordpress.com)
 
 Phase 4- Allow for installation within the bands Facebook page, allowing
- the band to update in realtime as tracks get recorded, and allowing fas
+ the band to update in realtime as tracks get recorded, and allowing fans
  to see the tracks being finished, all in real time 
